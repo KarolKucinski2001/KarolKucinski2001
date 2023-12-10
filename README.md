@@ -1,16 +1,17 @@
-### Hi there 👋
+👋 Hello! I'm Karol, a passionate software developer currently in the fourth year of my master's program in Computer Science and Econometrics.
+I have a year of work experience in C#.
 
-<!--
-**KarolKucinski2001/KarolKucinski2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 My expertise lies in C#, where I've tackled real-world challenges and crafted efficient solutions. I believe in writing clean, maintainable code that stands the test of time.
 
-Here are some ideas to get you started:
+🐍 Recently, I've dived into the world of Python, a language that has sparked my curiosity and creativity.
+    I've successfully completed several projects in Python, exploring its versatility and power.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 On my educational journey, I'm simultaneously deepening my knowledge in both Computer Science and Econometrics. 
+    This unique combination enhances my analytical skills and broadens my perspective on problem-solving.
+
+🚀 My GitHub is a space where I showcase my coding adventures, share my insights, and collaborate with like-minded developers.
+    Let's connect and build something amazing together!
+
+🔧 Tech Stack: C#, Python
+
+📫 Feel free to reach out: karol.kucinski@o2.pl
