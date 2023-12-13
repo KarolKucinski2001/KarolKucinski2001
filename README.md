@@ -15,3 +15,5 @@ I have a year of work experience in C#.
 🔧 Tech Stack: C#, Python
 
 📫 Feel free to reach out: karol.kucinski@o2.pl
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolKucinski2001&layout=compact)](https://github.com/KarolKucinski2001)
