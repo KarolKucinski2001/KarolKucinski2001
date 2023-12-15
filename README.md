@@ -16,4 +16,4 @@ I have a year of work experience in C#.
 
 📫 Feel free to reach out: karol.kucinski@o2.pl
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolKucinski2001&layout=compact&hide=jupyter%20notebook)](https://github.com/KarolKucinski2001)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolKucinski2001&layout=compact&hide=jupyter%20notebook)](https://github.com/KarolKucinski2001)--!>
