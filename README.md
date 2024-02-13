@@ -1,5 +1,5 @@
 👋 Hello! I'm Karol, a passionate software developer currently in the fourth year of my master's program in Computer Science and Econometrics.
-I have a year of work experience in C#.
+I have a year of experience working in C#.
 
 💻 My expertise lies in C#, where I've tackled real-world challenges and crafted efficient solutions. I believe in writing clean, maintainable code that stands the test of time.
 
