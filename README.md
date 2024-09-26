@@ -17,3 +17,6 @@ I have a year of experience working in C#.
 📫 Feel free to reach out: karol.kucinski@o2.pl
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolKucinski2001&layout=compact&hide=jupyter%20notebook)](https://github.com/KarolKucinski2001)--!>
+
+
+Check out my LeetCode account, where I regularly upload new solutions: https://leetcode.com/u/KarolKucinski/
